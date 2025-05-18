@@ -26,5 +26,6 @@ jobs:
       with:
         context: .
         push: true
-        tags: docker.io/${{ secrets.DOCKER_USERNAME }}/task-1:latest
+        tags: docker.io/naherin/task-1:latest
+
 
