@@ -26,5 +26,5 @@ jobs:
       with:
         context: .
         push: true
-        tags: NaherinFatema/task-1:latest
+        tags: docker.io/naherinfatema/task-1:latest
 
